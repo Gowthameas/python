@@ -1,0 +1,3 @@
+input="Profenaa"
+print(input[2:8:2])
+output:oea
